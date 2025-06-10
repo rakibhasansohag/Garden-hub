@@ -1,0 +1,132 @@
+[
+	{
+		"name": "Alice Green",
+		"age": 34,
+		"gender": "Female",
+		"status": "active",
+		"experiences": [
+			"Over 10 years of organic gardening",
+			"Community allotment coordinator",
+			"Favorite plants: tomatoes and herbs"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=47",
+		"totalTipsShared": 24
+	},
+	{
+		"name": "Bob Stone",
+		"age": 45,
+		"gender": "Male",
+		"status": "active",
+		"experiences": [
+			"Expert in balcony container gardening",
+			"Native plant specialist",
+			"Former landscape architect"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=32",
+		"totalTipsShared": 10
+	},
+	{
+		"name": "Charlie Rose",
+		"age": 28,
+		"gender": "Non-binary",
+		"status": "active",
+		"experiences": [
+			"Writes a popular gardening blog",
+			"Crossbreeds heirloom plant seeds",
+			"Loves vertical gardening systems"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=65",
+		"totalTipsShared": 5
+	},
+	{
+		"name": "Diana Fields",
+		"age": 40,
+		"gender": "Female",
+		"status": "active",
+		"experiences": [
+			"Urban garden planner",
+			"Greenhouse management expert",
+			"Beekeeping hobbyist"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=22",
+		"totalTipsShared": 15
+	},
+	{
+		"name": "Evan Spruce",
+		"age": 50,
+		"gender": "Male",
+		"status": "inactive",
+		"experiences": [
+			"15+ years of landscaping experience",
+			"Rainwater harvesting advocate",
+			"Built a permaculture orchard"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=13",
+		"totalTipsShared": 30
+	},
+	{
+		"name": "Frankie Lane",
+		"age": 30,
+		"gender": "Female",
+		"status": "inactive",
+		"experiences": [
+			"Specializes in carnivorous plants",
+			"Runs succulent propagation workshops",
+			"Collects rare orchids"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=21",
+		"totalTipsShared": 8
+	},
+	{
+		"name": "Taylor Brooks",
+		"age": 29,
+		"gender": "Non-binary",
+		"status": "active",
+		"experiences": [
+			"Volunteers at a community farm",
+			"Garden workshop instructor",
+			"Seed saving and exchange advocate"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=18",
+		"totalTipsShared": 12
+	},
+	{
+		"name": "Morgan Woods",
+		"age": 55,
+		"gender": "Male",
+		"status": "active",
+		"experiences": [
+			"Vegetable gardening veteran",
+			"Community compost program leader",
+			"Heritage grain grower"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=7",
+		"totalTipsShared": 20
+	},
+	{
+		"name": "Sydney Blaze",
+		"age": 38,
+		"gender": "Female",
+		"status": "active",
+		"experiences": [
+			"Indoor herb gardening expert",
+			"DIY hydroponics enthusiast",
+			"Pollinator-friendly garden advocate"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=5",
+		"totalTipsShared": 25
+	},
+	{
+		"name": "Riley Brook",
+		"age": 60,
+		"gender": "Male",
+		"status": "inactive",
+		"experiences": [
+			"Native plant restoration projects",
+			"Family orchard caretaker",
+			"Winegrape vineyard steward"
+		],
+		"photoURL": "https://i.pravatar.cc/150?img=4",
+		"totalTipsShared": 18
+	}
+]

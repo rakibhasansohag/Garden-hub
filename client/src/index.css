@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import "tailwindcss";
+
+ @plugin "daisyui" {
+   themes: light --default, dark --prefersdark;
+ }
+
+ @plugin "daisyui/theme" {
+  name:"light";
+  
+ 
+  default : true;
+    --color-primary: #2F855A;       /* Forest green */
+    --color-secondary: #38A169;     /* Lighter green */
+    --color-accent: #68D391;        /* Soft green */
+    --color-neutral: #F0FFF4; 
+    
+    --color-base-100: #FFFFFF;  
+    --color-base-200: #F7FFF7;   
+    --color-base-300: #EDFDF2;   
+    
+    --color-info: #93C5FD;      
+    --color-success: #6EE7B7;    
+    --color-warning: #FCD34D;   
+    --color-error: #EF4444;   
+	
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-poppins);
+  
+}
+
+a.active{
+  color: var(--color-primary);
+  font-weight: bold;
+}
+
+a{@apply text-base}
+
+.section{
+@apply max-w-7xl container mx-auto px-4 sm:px-2 lg:px-0
+}
+
+
+
+
+/* Swiper realted styles */
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #38A169 !important; 
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2px);
+  transition: all 0.3s ease;
+  border: 2px dashed #2F855A; 
+  z-index: 10 !important;
+  pointer-events: all !important;
+  cursor: pointer !important;
+
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  color: #2F855A !important; 
+  background-color: rgba(255, 255, 255, 1);
+  transform: scale(1.1);
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 24px !important;
+  font-weight: bold;
+  position: relative;
+  z-index: 20;
+}
+
+/* Position arrows */
+.swiper-button-prev {
+  left: 20px !important;
+  
+}
+
+.swiper-button-next {
+  right: 20px !important;
+}
+
