@@ -12,19 +12,19 @@ A live demo of the project can be found [here on Netlify](https://garden-hub-by-
 
 To know better about our project:
 
-* **Home Page**: ![HomePage](/public/home.png)
-* **Browse Tips Page**: ![BrowseTips](/public/browsetips.png)
-* **Edit Profile Page**: ![EditProfile](/public/editprofilepage.png)
-* **Explore Gardeners Page**: ![ExploreGardeners](/public/exploregardeners.png)
-* **Forgot Password Page**: ![ForgotPassword](/public/forgotpassword.png)
-* **Login Page**: ![Login](/public/login.png)
-* **My Tips Page**: ![MyTips](/public/mytips.png)
-* **Not Found Page**: ![NotFound](/public/notfound.png)
-* **Profile Page**: ![Profile](/public/profilepage.png)
-* **Register Page**: ![Register](/public/register.png)
-* **Sharing Tips Page**: ![SharingTips](/public/sharingtips.png)
-* **Tips Details Page**: ![TipsDetails](/public/tipsdetails.png)
-* **Tips Not Found Page**: ![TipsNotFound](/public/tipsnotfound.png)
+* **Home Page**: ![HomePage](./client//public/home.png)
+* **Browse Tips Page**: ![BrowseTips](./client//public/browsetips.png)
+* **Edit Profile Page**: ![EditProfile](./client//public/editprofilepage.png)
+* **Explore Gardeners Page**: ![ExploreGardeners](./client//public/exploregardeners.png)
+* **Forgot Password Page**: ![ForgotPassword](./client//public/forgotpassword.png)
+* **Login Page**: ![Login](./client//public/login.png)
+* **My Tips Page**: ![MyTips](./client//public/mytips.png)
+* **Not Found Page**: ![NotFound](./client//public/notfound.png)
+* **Profile Page**: ![Profile](./client//public/profilepage.png)
+* **Register Page**: ![Register](./client//public/register.png)
+* **Sharing Tips Page**: ![SharingTips](./client//public/sharingtips.png)
+* **Tips Details Page**: ![TipsDetails](./client//public/tipsdetails.png)
+* **Tips Not Found Page**: ![TipsNotFound](./client//public/tipsnotfound.png)
 
 ---
 
